@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## AI4GOOD
+      Ai for the social good!
 This website will have all the interesting AI projects that i am working on!
 
 will be working on sharing all the projects codes, articles and instructions as well!
