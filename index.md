@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ai4good1/ai4good1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website will have all the interesting AI projects that i am working on!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+will be working on sharing all the projects codes, articles and instructions as well!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
